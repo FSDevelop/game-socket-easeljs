@@ -1,0 +1,24 @@
+{
+  "name": "game-socket-easeljs",
+  "version": "1.0.0",
+  "description": "Testing Socket and Easeljs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FSDevelop/game-socket-easeljs.git"
+  },
+  "keywords": [
+    "socketio",
+    "easeljs",
+    "game"
+  ],
+  "author": "Federico Sosa",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FSDevelop/game-socket-easeljs/issues"
+  },
+  "homepage": "https://github.com/FSDevelop/game-socket-easeljs#readme"
+}
